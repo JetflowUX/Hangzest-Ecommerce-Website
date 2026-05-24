@@ -13,8 +13,7 @@ module.exports = {
         green: 'var(--green)',
         citrus: 'var(--citrus)',
         offwhite: 'var(--offwhite)',
-        charcoal: 'var(--charcoal)',
-        gray: 'var(--gray)',
+        charcoal: 'var(--charcoal)'
       },
       fontFamily: {
         display: ['Anton', 'sans-serif'],

@@ -1,0 +1,41 @@
+## Node
+node_modules/
+
+## Build output
+dist/
+build/
+public/build/
+
+## Vite / cache
+.vite/
+.cache/
+
+## TypeScript
+*.tsbuildinfo
+
+## Environment
+.env
+.env.*.local
+
+## Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+## IDEs
+.idea/
+.vscode/
+
+## Coverage
+coverage/
+
+## macOS
+.DS_Store
+
+## Misc
+.pnp.js
+.pnp/
+*.tgz
+test-results/
